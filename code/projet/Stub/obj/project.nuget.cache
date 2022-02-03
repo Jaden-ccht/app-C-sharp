@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6zTakGa3nW+pSY1LYigX3qJTeGJwzfR1G6BOwgF+1mOXoWnpyqltxMx6+0PCTvi+sL59ZkG5rtfzkF/3mC36og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jaden\\Documents\\1A\\Projet C sharp\\code\\projet\\Stub\\Stub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

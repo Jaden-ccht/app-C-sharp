@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="WpfApp1.UCRegister"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApp1"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="571">
+    <Grid>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+            <TextBlock Text="Pseudonyme"  HorizontalAlignment="Center" VerticalAlignment="Top" Style="{StaticResource ResourceKey=Contenus}"/>
+            <TextBox x:Name="pseudo" HorizontalAlignment="Center" Margin="10" TextWrapping="Wrap" VerticalAlignment="Top" Width="250"/>
+
+            <TextBlock Text="Mot de passe"  HorizontalAlignment="Center" VerticalAlignment="Top" Style="{StaticResource ResourceKey=Contenus}"/>
+            <PasswordBox x:Name="motdepasse" HorizontalAlignment="Center" Margin="10" VerticalAlignment="Top" Width="250"/>
+
+            <TextBlock Text="Confirmer le mot de passe"  HorizontalAlignment="Center" VerticalAlignment="Top" Style="{StaticResource ResourceKey=Contenus}"/>
+            <PasswordBox x:Name="confirmer" HorizontalAlignment="Center" Margin="10" VerticalAlignment="Top" Width="250"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="register" Grid.Column="0" Content="créer un compte" HorizontalAlignment="Center" VerticalAlignment="Top" DataContext="{Binding Text,ElementName=pseudo}" Click="Register_Click"/>
+                <Button Content="annuler" HorizontalAlignment="Center" Grid.Column="1" IsCancel="True" Click="Annuler_Click"/>
+            </Grid>
+        </StackPanel>
+        <TextBlock x:Name="different" HorizontalAlignment="Center" Margin="0,20,0,0" Text="Les mots de passes sont différents !" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" Foreground="Red" Visibility="Hidden" Style="{StaticResource ResourceKey=Contenus}"/>
+        <TextBlock x:Name="existant" HorizontalAlignment="Center" Margin="0,20,0,0" Text="Pseudo déjà pris !" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" Foreground="Red" Visibility="Hidden" Style="{StaticResource ResourceKey=Contenus}"/>
+            
+    </Grid>
+</UserControl>

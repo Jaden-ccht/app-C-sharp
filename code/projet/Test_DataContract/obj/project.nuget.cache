@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vm7R5i7XX3E9hoI8ihZ1JRfvY7Xi0QgU+YD1puHPztVlr1UkH0ti1VJJo725CRV4Gl4/6n7Gy+r715uUBXvrLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jaden\\Documents\\1A\\Projet C sharp\\code\\projet\\Test_DataContract\\Test_DataContract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

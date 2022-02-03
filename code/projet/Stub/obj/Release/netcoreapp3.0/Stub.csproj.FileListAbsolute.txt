@@ -1,0 +1,12 @@
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\bin\Release\netcoreapp3.0\Stub.deps.json
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\bin\Release\netcoreapp3.0\Stub.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\bin\Release\netcoreapp3.0\Stub.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\bin\Release\netcoreapp3.0\Modele.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\bin\Release\netcoreapp3.0\Modele.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\obj\Release\netcoreapp3.0\Stub.csprojAssemblyReference.cache
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\obj\Release\netcoreapp3.0\Stub.AssemblyInfoInputs.cache
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\obj\Release\netcoreapp3.0\Stub.AssemblyInfo.cs
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\obj\Release\netcoreapp3.0\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\obj\Release\netcoreapp3.0\Stub.csproj.CopyComplete
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\obj\Release\netcoreapp3.0\Stub.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Stub\obj\Release\netcoreapp3.0\Stub.pdb

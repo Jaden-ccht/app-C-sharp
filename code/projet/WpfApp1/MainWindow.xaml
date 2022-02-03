@@ -1,0 +1,54 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        x:Name="Sous_Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Inf'Eau" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images;component/fond-bleu-full.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="40*"/>
+        </Grid.ColumnDefinitions>
+        <Grid x:Name="grid2" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.05*"/>
+                <RowDefinition Height="0.95*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="Aide" Content="Aide" Width="75" HorizontalAlignment="Left" MaxHeight="30" VerticalAlignment="Center" Click="Aide_Click" />
+            <Button x:Name="ajoutfav" Content="favoris" Grid.Column="1" Grid.Row="0" Width="75" MaxHeight="30"  HorizontalAlignment="Right" Click="ajoutfav_Click" Visibility="Visible"/>
+            
+            <ContentControl x:Name="contentControl" Grid.Column="1" Grid.Row="1">
+                <local:UCMenuCirculaire/>
+            </ContentControl>
+        </Grid>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.25*"/>
+                <RowDefinition Height="0.25*"/>
+                <RowDefinition Height="0.25*"/>
+                <RowDefinition Height="0.25*"/>
+            </Grid.RowDefinitions>
+
+            <local:UCBouton Grid.Row="0" Texte="menu" NomIcon="/Images;component/IconMenu.jpg" Margin="0" Clique="Menu_Click"/>
+
+            <local:UCBouton x:Name="userControlFavoris" Texte="favoris" NomIcon="/Images;component/IconFavoris.jpg" Clique="Favoris_Click" Margin="20" Grid.Row="1" Visibility="Hidden"/>
+
+            <local:UCBouton Texte="paramètres" NomIcon="/Images;component/IconParametres.jpg" Clique="Param_Click" Margin="10" Grid.Row="2"/>
+
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="0.5*"/>
+                </Grid.ColumnDefinitions>
+                <local:UCBouton x:Name="logInOut" Texte="Login" NomIcon="/Images;component/IconUser.jpg" Clique="LogInOut_Click" Margin="10" Grid.Column="0"/>
+                <local:UCBouton Texte="quitter" NomIcon="/Images;component/IconQuitter.jpg" Clique="quitter_Click" Margin="10" Grid.Column="1"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

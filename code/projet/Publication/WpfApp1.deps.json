@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "WpfApp1/1.0.0": {
+        "dependencies": {
+          "DataContractPersistance": "1.0.0",
+          "Images": "1.0.0",
+          "Modele": "1.0.0",
+          "Stub": "1.0.0"
+        },
+        "runtime": {
+          "WpfApp1.dll": {}
+        }
+      },
+      "DataContractPersistance/1.0.0": {
+        "dependencies": {
+          "Modele": "1.0.0"
+        },
+        "runtime": {
+          "DataContractPersistance.dll": {}
+        }
+      },
+      "Images/1.0.0": {
+        "runtime": {
+          "Images.dll": {}
+        }
+      },
+      "Modele/1.0.0": {
+        "runtime": {
+          "Modele.dll": {}
+        }
+      },
+      "Stub/1.0.0": {
+        "dependencies": {
+          "Modele": "1.0.0"
+        },
+        "runtime": {
+          "Stub.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataContractPersistance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Images/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modele/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

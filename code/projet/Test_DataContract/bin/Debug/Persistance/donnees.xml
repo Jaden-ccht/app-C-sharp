@@ -1,0 +1,98 @@
+<DataToPersist z:Id="1" xmlns="http://schemas.datacontract.org/2004/07/DataContractPersistance" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/">
+	<gestE z:Id="2" xmlns:a="http://schemas.datacontract.org/2004/07/Modele">
+		<a:DicoElement z:Id="3" z:Size="3" xmlns:b="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+			<b:KeyValueOfintElement0gxuieJo>
+				<b:Key>1</b:Key>
+				<b:Value z:Id="4">
+					<a:Contenu z:Id="5">Cette page contient une petite liste des marques d'eau les plus connues</a:Contenu>
+					<a:LienImage i:nil="true"/>
+					<a:Nom z:Id="6">Toutes les marques d'eau</a:Nom>
+					<a:TypeElem z:Id="7">info</a:TypeElem>
+				</b:Value>
+			</b:KeyValueOfintElement0gxuieJo>
+			<b:KeyValueOfintElement0gxuieJo>
+				<b:Key>2</b:Key>
+				<b:Value z:Id="8">
+					<a:Contenu z:Id="9">
+						1.L’eau est la seule substance que l’on retrouve naturellement en 3 formes sur
+						2.Terre (solide, liquide et gazeuse).
+						3.L’eau régule la température de la Terre.1
+						4.Environ 66% du corps humain est composé d’eau.
+						5.Environ 80% de la surface de la Terre est de l’eau.
+						6.Une personne peut survivre environ 1 semaine sans eau, selon les conditions.
+						7.2% de l’eau dans le monde est gelée et donc inutilisable.
+						8.97% de l’eau sur Terre se retrouve dans les océans et les mers.
+					</a:Contenu>
+					<a:LienImage i:nil="true"/>
+					<a:Nom z:Id="10">20 choses à savoir sur l'eau</a:Nom>
+					<a:TypeElem z:Ref="7" i:nil="true"/>
+				</b:Value>
+			</b:KeyValueOfintElement0gxuieJo>
+			<b:KeyValueOfintElement0gxuieJo>
+				<b:Key>3</b:Key>
+				<b:Value z:Id="11">
+					<a:Contenu z:Id="12">Sur cette page, il est possible d'enregistrer votre consommation quotidienne d'eau</a:Contenu>
+					<a:LienImage i:nil="true"/>
+					<a:Nom z:Id="13">Page de consommation d'eau</a:Nom>
+					<a:TypeElem z:Ref="7" i:nil="true"/>
+				</b:Value>
+			</b:KeyValueOfintElement0gxuieJo>
+		</a:DicoElement>
+		<a:ListeElement z:Id="14" z:Size="3">
+			<a:Element z:Id="15">
+				<a:Contenu z:Id="16">elle est très bonne cette eau</a:Contenu>
+				<a:LienImage z:Id="17">/images;component/bouteille.jpeg</a:LienImage>
+				<a:Nom z:Id="18">bouteille</a:Nom>
+				<a:TypeElem z:Ref="18" i:nil="true"/>
+			</a:Element>
+			<a:Element z:Id="19">
+				<a:Contenu z:Id="20">contenu2</a:Contenu>
+				<a:LienImage z:Id="21">lienimage2</a:LienImage>
+				<a:Nom z:Id="22">elem2</a:Nom>
+				<a:TypeElem z:Ref="18" i:nil="true"/>
+			</a:Element>
+			<a:Element z:Id="23">
+				<a:Contenu z:Id="24">contenu3</a:Contenu>
+				<a:LienImage z:Id="25">lienimage3</a:LienImage>
+				<a:Nom z:Id="26">elem3</a:Nom>
+				<a:TypeElem z:Ref="18" i:nil="true"/>
+			</a:Element>
+		</a:ListeElement>
+	</gestE>
+	<gestU z:Id="27" xmlns:a="http://schemas.datacontract.org/2004/07/Modele">
+		<a:ListeUtilisateurs z:Id="28" z:Size="4">
+			<a:Utilisateur z:Id="29">
+				<a:Admin>false</a:Admin>
+				<a:ListeDonneeConso z:Id="30" z:Size="0"/>
+				<a:ListeFavoris z:Id="31" z:Size="0"/>
+				<a:MotDePasse z:Id="32">mdp1</a:MotDePasse>
+				<a:Pseudo z:Id="33">utilisateur1</a:Pseudo>
+				<a:Theme>Clair</a:Theme>
+			</a:Utilisateur>
+			<a:Utilisateur z:Id="34">
+				<a:Admin>false</a:Admin>
+				<a:ListeDonneeConso z:Id="35" z:Size="0"/>
+				<a:ListeFavoris z:Id="36" z:Size="0"/>
+				<a:MotDePasse z:Id="37">mdp2</a:MotDePasse>
+				<a:Pseudo z:Id="38">utilisateur2</a:Pseudo>
+				<a:Theme>Clair</a:Theme>
+			</a:Utilisateur>
+			<a:Utilisateur z:Id="39" i:type="a:Administrateur">
+				<a:Admin>true</a:Admin>
+				<a:ListeDonneeConso z:Id="40" z:Size="0"/>
+				<a:ListeFavoris z:Id="41" z:Size="0"/>
+				<a:MotDePasse z:Id="42">mdpadmin1</a:MotDePasse>
+				<a:Pseudo z:Id="43">admin1</a:Pseudo>
+				<a:Theme>Clair</a:Theme>
+			</a:Utilisateur>
+			<a:Utilisateur z:Id="44" i:type="a:Administrateur">
+				<a:Admin>true</a:Admin>
+				<a:ListeDonneeConso z:Id="45" z:Size="0"/>
+				<a:ListeFavoris z:Id="46" z:Size="0"/>
+				<a:MotDePasse z:Id="47">mdpadmin2</a:MotDePasse>
+				<a:Pseudo z:Id="48">admin2</a:Pseudo>
+				<a:Theme>Clair</a:Theme>
+			</a:Utilisateur>
+		</a:ListeUtilisateurs>
+	</gestU>
+</DataToPersist>

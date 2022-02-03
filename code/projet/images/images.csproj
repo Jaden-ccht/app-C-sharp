@@ -1,0 +1,109 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="bouteille.jpeg" />
+    <None Remove="engrenages.jpg" />
+    <None Remove="etoile.jpg" />
+    <None Remove="fond-bleu-full.jpg" />
+    <None Remove="IconFavoris.jpg" />
+    <None Remove="IconMenu.jpg" />
+    <None Remove="IconParametres.jpg" />
+    <None Remove="IconQuitter.jpg" />
+    <None Remove="IconUser.jpg" />
+    <None Remove="ImagesBouteilles\aquarel.jpg" />
+    <None Remove="ImagesBouteilles\carola.jpg" />
+    <None Remove="ImagesBouteilles\celtic.jpg" />
+    <None Remove="ImagesBouteilles\contrex.jpg" />
+    <None Remove="ImagesBouteilles\cristaline.jpg" />
+    <None Remove="ImagesBouteilles\eauRoyale.jpg" />
+    <None Remove="ImagesBouteilles\evian.jpg" />
+    <None Remove="ImagesBouteilles\hepar.jpg" />
+    <None Remove="ImagesBouteilles\rozana.jpg" />
+    <None Remove="ImagesBouteilles\vittel.jpg" />
+    <None Remove="ImagesBouteilles\volvic.jpg" />
+    <None Remove="Logo.jpg" />
+    <None Remove="Logo.jpg.png" />
+    <None Remove="plage.jpg" />
+    <None Remove="porte.jpg" />
+    <None Remove="pull_door_icon_154953.png" />
+    <None Remove="verre.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="IconUser.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="IconFavoris.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IconMenu.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IconQuitter.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="fond-bleu-full.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\aquarel.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\carola.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\celtic.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\contrex.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\cristaline.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\eauRoyale.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\evian.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\hepar.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\rozana.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\vittel.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="ImagesBouteilles\volvic.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Logo.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="bouteille.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IconParametres.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="verre.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

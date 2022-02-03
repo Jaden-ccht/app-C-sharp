@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AX7AKqi56RWL8p8wbaevMXtaV65+Z7j6gys8FGrIbl9PpquWKsUW6eAYqi5CdwDlsjyAZnNLFTmMmUWpkB0sqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jaden\\Documents\\1A\\Projet C sharp\\code\\projet\\DataContractPersistance\\DataContractPersistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

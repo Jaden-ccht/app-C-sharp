@@ -1,0 +1,13 @@
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\WpfApp1.exe
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\WpfApp1.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\WpfApp1.deps.json
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\WpfApp1.runtimeconfig.json
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\WpfApp1.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\DataContractPersistance.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\Images.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\Modele.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\Stub.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\DataContractPersistance.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\Images.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\Modele.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Publication\Stub.pdb

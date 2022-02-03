@@ -1,0 +1,17 @@
+C:\Users\Jaden\Documents\Projet C#\code\projet\Modele\bin\Debug\netstandard2.0\Modele.deps.json
+C:\Users\Jaden\Documents\Projet C#\code\projet\Modele\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Jaden\Documents\Projet C#\code\projet\Modele\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Jaden\Documents\Projet C#\code\projet\Modele\obj\Debug\netstandard2.0\Modele.csprojAssemblyReference.cache
+C:\Users\Jaden\Documents\Projet C#\code\projet\Modele\obj\Debug\netstandard2.0\Modele.AssemblyInfoInputs.cache
+C:\Users\Jaden\Documents\Projet C#\code\projet\Modele\obj\Debug\netstandard2.0\Modele.AssemblyInfo.cs
+C:\Users\Jaden\Documents\Projet C#\code\projet\Modele\obj\Debug\netstandard2.0\Modele.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\Documents\Projet C#\code\projet\Modele\obj\Debug\netstandard2.0\Modele.dll
+C:\Users\Jaden\Documents\Projet C#\code\projet\Modele\obj\Debug\netstandard2.0\Modele.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Modele\bin\Debug\netstandard2.0\Modele.deps.json
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Modele\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Modele\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Modele\obj\Debug\netstandard2.0\Modele.AssemblyInfoInputs.cache
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Modele\obj\Debug\netstandard2.0\Modele.AssemblyInfo.cs
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Modele\obj\Debug\netstandard2.0\Modele.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Modele\obj\Debug\netstandard2.0\Modele.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\Modele\obj\Debug\netstandard2.0\Modele.pdb

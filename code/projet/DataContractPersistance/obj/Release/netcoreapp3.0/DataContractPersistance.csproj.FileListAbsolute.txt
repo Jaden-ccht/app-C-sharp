@@ -1,0 +1,12 @@
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\bin\Release\netcoreapp3.0\DataContractPersistance.deps.json
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\bin\Release\netcoreapp3.0\DataContractPersistance.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\bin\Release\netcoreapp3.0\DataContractPersistance.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\bin\Release\netcoreapp3.0\Modele.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\bin\Release\netcoreapp3.0\Modele.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\obj\Release\netcoreapp3.0\DataContractPersistance.csprojAssemblyReference.cache
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\obj\Release\netcoreapp3.0\DataContractPersistance.AssemblyInfoInputs.cache
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\obj\Release\netcoreapp3.0\DataContractPersistance.AssemblyInfo.cs
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\obj\Release\netcoreapp3.0\DataContractPersistance.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\obj\Release\netcoreapp3.0\DataContractPersistance.csproj.CopyComplete
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\obj\Release\netcoreapp3.0\DataContractPersistance.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\DataContractPersistance\obj\Release\netcoreapp3.0\DataContractPersistance.pdb

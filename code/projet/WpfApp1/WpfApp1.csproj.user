@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Jaden\Documents\Projet C sharp\code\projet\WpfApp1\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Loginpage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCAjoutModifBouteille.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCBouton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCFavoris.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCInfoBouteille.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCInformations.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCListeBouteilles.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCListeUtilisateurs.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCLogin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCModifUsername.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCParametres.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCModifierPassword.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCConsommationEau.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCMenuCirculaire.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UCRegister.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Loginpage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCAjoutModifBouteille.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCBouton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCFavoris.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCInfoBouteille.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCInformations.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCListeBouteilles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCListeUtilisateurs.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCLogin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCModifUsername.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCParametres.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCModifierPassword.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCConsommationEau.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCMenuCirculaire.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UCRegister.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

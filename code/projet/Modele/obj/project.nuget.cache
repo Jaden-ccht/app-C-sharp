@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hr4/bp7iKTKSG+hm/l40fuGBnlqcShJQ7NvX3s4hbJt6fLxLuw4BIsz7y+74i+gWjmWBSntc09FcekhUD7WgTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jaden\\Documents\\1A\\Projet C sharp\\code\\projet\\Modele\\Modele.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jaden\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\images\bin\Debug\netcoreapp3.0\Images.deps.json
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\images\bin\Debug\netcoreapp3.0\Images.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\images\bin\Debug\netcoreapp3.0\Images.pdb
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\images\obj\Debug\netcoreapp3.0\Images.g.resources
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\images\obj\Debug\netcoreapp3.0\Images.AssemblyInfoInputs.cache
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\images\obj\Debug\netcoreapp3.0\Images.AssemblyInfo.cs
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\images\obj\Debug\netcoreapp3.0\Images.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\images\obj\Debug\netcoreapp3.0\Images.dll
+C:\Users\Jaden\Documents\Projet C sharp\code\projet\images\obj\Debug\netcoreapp3.0\Images.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5IbBaovY8tq3LWBm50YdlkCtlbtxmMaZFfXy2YYEW1DwxQYzT5Ic03I9x3FUZqzyD1Sckm8khnitme6VroDoyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jaden\\Documents\\1A\\Projet C sharp\\code\\projet\\images\\Images.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jaden\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
